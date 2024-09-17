@@ -1,0 +1,6 @@
+Line 1: Hello, this is a sample text file.
+Line 2: The number 42 is the answer to everything.
+Line 3: Python is fun!
+Line 4: Appending more text.
+Line 5: The universe is vast and mysterious.
+Line 6: Keep coding and learning!
